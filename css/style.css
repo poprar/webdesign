@@ -384,6 +384,9 @@ main{
   .section-left{
     margin-bottom: 50px;
   }
+  .social-network .social-icon li a {
+    padding: 10px;
+}
  
 }
 @media (max-width: 860px){
